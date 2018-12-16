@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-My responsive portfolio
+# Basic-Portafolio
+Jose's Portafolio
